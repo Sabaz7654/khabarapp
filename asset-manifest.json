@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khabarapp/static/css/main.073c9b0a.css",
+    "main.js": "/khabarapp/static/js/main.9d72817e.js",
+    "static/js/787.4c026eef.chunk.js": "/khabarapp/static/js/787.4c026eef.chunk.js",
+    "index.html": "/khabarapp/index.html",
+    "main.073c9b0a.css.map": "/khabarapp/static/css/main.073c9b0a.css.map",
+    "main.9d72817e.js.map": "/khabarapp/static/js/main.9d72817e.js.map",
+    "787.4c026eef.chunk.js.map": "/khabarapp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9d72817e.js"
+  ]
+}
